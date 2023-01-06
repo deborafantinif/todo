@@ -1,0 +1,32 @@
+.content {
+  width: 730px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin: 10px auto;
+  border-radius: 4px;
+  font-size: 14px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;  width: 650px;
+  background-color: var(--gray-500);
+  border: 1px solid var(--gray-400);
+}
+
+.text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text p {
+  padding: 0 10px;
+}
+
+.circle {
+  color: var(--blue-500);
+}
+
+.trash {
+  color: var(--gray-300);
+}

@@ -1,0 +1,10 @@
+.nocontent {
+  height: 250px;
+  width: 730px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--gray-300);
+}
